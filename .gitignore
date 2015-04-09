@@ -8,4 +8,4 @@
 *.iml
 *.iws
 target
-/.project
+.idea
